@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akif</h1>
-<h3 align="center">Mern Stack Developer form Pakitan</h3>
+<h3 align="center">Mern Stack Developer form Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifnadeem12&label=Profile%20views&color=165379&style=plastic" alt="akifnadeem12" /> </p>
 

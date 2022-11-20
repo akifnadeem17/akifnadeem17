@@ -3,19 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifnadeem12&label=Profile%20views&color=165379&style=plastic" alt="akifnadeem12" /> </p>
 
-- 🔭 I’m currently working on **Service-Delivery-App & Web Portal**
+- 🔭 I’m currently working on **Aetmaad dashboard portal**
 
 - 🌱 I’m currently learning **React Native,Nextjs**
 
 - 💬 Ask me about **Reactjs,Nodejs,Javscript,**
 
-- 📫 How to reach me **akif.nadeem17@gmail.com**
+- 📫 How to reach me **akif@hashloops.com**
 
 - ⚡ Fun fact **I love to gaming 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Miansab4631498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akifnadeem17" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mianakif.mianakif.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad akif" height="30" width="40" /></a>
 <a href="https://instagram.com/akif_nadeem17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_akif_x1" height="30" width="40" /></a>
 </p>

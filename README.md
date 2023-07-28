@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifnadeem12&label=Profile%20views&color=165379&style=plastic" alt="akifnadeem12" /> </p>
 
-- 🔭 I’m currently working on **Aetmaad dashboard portal**
+- 🔭 I’m currently working on **Wisecounsel Ai based Project**
 
 - 🌱 I’m currently learning **React Native,Nextjs**
 

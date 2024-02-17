@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akif Nadeem</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Akif Nadeem</h1>
 <h3 align="center">Mern Stack Developer form Pakistan</h3>
 
 # 💫 About Me:

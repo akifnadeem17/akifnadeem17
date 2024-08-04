@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Akif Nadeem</h1>
-<h3 align="center">Mern Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="35" height="35" /> About Me:
 🔭 Working as a Software Engineer in Hashloops Technologies<br>💻 I’m currently working on AI Autonomous Negotiation<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning Docker, TypeScript<br>🎨 New Skill: TypeScript, Open AI<br>💬 Ask me about React, Node, JavaScript, and TypeScript<br>🥅 2024 Goals: React Native

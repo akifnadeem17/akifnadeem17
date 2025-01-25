@@ -4,12 +4,12 @@
 ---
 
 ### 🚀 About Me:
-- 💼 Software Engineer at **Hashloops Technologies**
-- 🔭 Currently working on **AI-powered Autonomous Negotiation tools**
-- 🌱 Learning **Docker** and enhancing expertise in **TypeScript**
-- 💬 Ask me about **React**, **Next.js**, **Node.js**, and **AI Integrations**
-- 🥅 **2025 Goals**: Expand into **Python, AI and Machine Learning** development
-- 🌐 Portfolio: [akif-nadeem.dev](https://www.akif-nadeem.dev)
+- 💼 Software Engineer at **Hashloops Technologies**  
+- 🔭 Currently working on **AI-powered Autonomous Negotiation Tools**  
+- 🌱 Actively learning **Docker** and diving deeper into **TypeScript**  
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, or **AI Integrations**  
+- 🎯 **2025 Goals**: Explore **Python**, **AI**, and **Machine Learning** development  
+- 🌐 Portfolio: [akif-nadeem.dev](https://www.akif-nadeem.dev)  
 
 ---
 
@@ -43,10 +43,11 @@
 
 ---
 
-### ✨ Highlights:
-- **Proven Expertise**: Specializing in full-stack development, AI integrations, and building scalable web solutions.
-- **Collaborative Mindset**: Actively seeking opportunities to collaborate with like-minded developers.
-- **Future Focused**: Always learning and experimenting with new tools and technologies to stay ahead.
+### ✨ Highlights  
+- **Proven Expertise**: Specializing in full-stack development, AI integrations, and building scalable web solutions.  
+- **Collaborative Mindset**: Always eager to collaborate and build meaningful connections with fellow developers.  
+- **Future Focused**: Continuously learning and experimenting with new tools and technologies to stay ahead in the field.  
 
 ---
 
+🔗 **Let’s build something amazing together!**  

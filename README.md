@@ -8,7 +8,7 @@
 - 🔭 Currently working on **AI-powered Autonomous Negotiation tools**
 - 🌱 Learning **Docker** and enhancing expertise in **TypeScript**
 - 💬 Ask me about **React**, **Next.js**, **Node.js**, and **AI Integrations**
-- 🥅 **2024 Goals**: Expand into **React Native** development
+- 🥅 **2025 Goals**: Expand into **Python, AI and Machine Learning** development
 - 🌐 Portfolio: [akif-nadeem.dev](https://www.akif-nadeem.dev)
 
 ---

@@ -41,6 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifnadeem17&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </div>
 
+<img src="https://raw.githubusercontent.com/akifnadeem17/akifnadeem17/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ### ✨ Highlights  

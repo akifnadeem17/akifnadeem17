@@ -5,7 +5,7 @@
 
 ### 🚀 About Me:
 - 💼 Software Engineer at **Hashloops Technologies**  
-- 🔭 Currently working on **AI-powered Autonomous Negotiation Tools**  
+- 🔭 Currently working on **Recruitement Management System**  
 - 🌱 Actively learning **Docker** and diving deeper into **TypeScript**  
 - 💬 Ask me about **React**, **Next.js**, **Node.js**, or **AI Integrations**  
 - 🎯 **2025 Goals**: Explore **Python**, **AI**, and **Machine Learning** development  

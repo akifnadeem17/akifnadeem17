@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me:
-- 💼 Software Engineer at **Hashloops Technologies**  
+- 💼 Doing Freelancing at **Upwork** 
 - 🔭 Currently working on **Recruitement Management System**  
 - 🌱 Actively learning **Docker** and diving deeper into **TypeScript**  
 - 💬 Ask me about **React**, **Next.js**, **Node.js**, or **AI Integrations**  

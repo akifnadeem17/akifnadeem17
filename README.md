@@ -12,7 +12,7 @@ Currently architecting a **Recruitment Management System** with automation workf
 **Databases & Caching**: PostgreSQL, MongoDB, Supabase, Redis  
 **Architecture**: Multi-tenancy (Turborepo), Microservices, REST APIs, WebSockets, Real-time Systems  
 **Payment Systems**: Stripe (Connect, Subscriptions, Checkout, Escrow), Razorpay, Direct Bank Transfers  
-**AI & Automation**: OpenAI, Anthropic (Claude), Zapier, Make, HubSpot CRM, OCR Integration  
+**AI & Automation**: OpenAI, Anthropic (Claude), Gemini, Zapier, Make.com, HubSpot CRM  
 **Infrastructure & DevOps**: Linux, Ansible, Docker, SSH, AWS EC2, Azure (Functions, AKS), DigitalOcean, VPS Management  
 **Monitoring & Reliability**: systemd/journalctl, Docker logs, Healthchecks, Cron jobs  
 **CI/CD**: GitHub Actions, GitLab CI, Azure Pipelines  

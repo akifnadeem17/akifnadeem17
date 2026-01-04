@@ -1,118 +1,139 @@
-# Hi, I'm Akif Nadeem 👋
+# 👋 Hi, I'm Muhammad Akif
 
-**Software Engineer specializing in production SaaS platforms, payment systems, and multi-tenant architecture.**
-
-4+ years building scalable systems that handle real users, real transactions, and real infrastructure challenges. From multi-cloud orchestration to Stripe payment processing, I architect solutions that don't break at 3 AM.
-
-Currently: Building a **Recruitment Management System** with workflow automation and integrated payment processing.
+🌍 **Based in Lahore, Pakistan** | 💼 **Senior Software Engineer**
 
 ---
 
-## Specializations
+## 🧩 Professional Summary
 
-**SaaS Architecture & Multi-Tenancy**
-Building production platforms with isolated tenant data, scalable monorepo structures (Turborepo), and Redis-backed caching strategies. Experience architecting systems that serve multiple companies from a single codebase while maintaining data isolation and performance.
+I build **production infrastructure platforms and AI-enabled SaaS products that scale**—from multi-cloud deployment systems managing hundreds of nodes to recruitment platforms processing thousands of candidates monthly. With **4+ years of shipping real products**, I specialize in payment-heavy systems, infrastructure automation, and full-stack development where reliability and maintainability matter.
 
-**Payment Systems Integration**
-Deep expertise in Stripe Connect for marketplace platforms, subscription billing, escrow systems, and automated payouts. Implemented payment flows handling real transactions with PCI compliance and fraud prevention considerations.
-
-**Production Infrastructure**
-Managing multi-cloud deployments across AWS, Azure, GCP, and DigitalOcean. Experience with Docker containerization, Ansible automation, CI/CD pipelines, and zero-downtime deployment strategies for production systems.
-
-**Real-Time Systems**
-Building WebSocket-based applications with Socket.IO for live updates, notifications, and real-time collaboration features. Redis pub/sub for distributed system communication.
+I work close to both product and infrastructure—designing APIs, integrating payment systems like Stripe, automating cloud deployments, and building features that teams confidently run in production.
 
 ---
 
-## Technical Stack
+## 🔑 Core Expertise
 
-**Frontend**: TypeScript, React, Next.js, Tailwind CSS
-**Backend**: Node.js, Express, WebSockets (Socket.IO)
-**Databases**: PostgreSQL, MongoDB, Supabase, Redis
-**Payment Processing**: Stripe (Connect, Subscriptions, Checkout, Escrow), Razorpay
-**AI Integration**: OpenAI, Anthropic (Claude), Gemini - production implementations with token optimization
-**Infrastructure**: Linux, Ansible, Docker, SSH, AWS EC2, Azure (Functions, AKS), DigitalOcean
-**DevOps**: GitHub Actions, GitLab CI, Azure Pipelines, systemd/journalctl, Healthchecks
-**Architecture**: Multi-tenancy, Microservices, REST APIs, Real-time Systems, Monorepo (Turborepo)
+* **Full‑stack SaaS development** with React, Next.js, Node.js, and TypeScript
+* **Payment infrastructure**: Stripe (Subscriptions, Connect, complex billing), Razorpay
+* **Backend engineering**: API design, real-time systems, business logic
+* **AI‑enabled features** using OpenAI & Anthropic APIs
+* **Infrastructure automation**: Docker, Ansible, CI/CD, multi-cloud orchestration
+* **Cloud platforms**: AWS, Azure, DigitalOcean
 
 ---
 
-## Recent Projects
+## 💡 What I Bring to Engineering Teams
 
-### O1 - Multi-Cloud Orchestration Platform
-
-**Challenge**: DevOps teams needed a unified interface to manage infrastructure across AWS, Azure, GCP, and DigitalOcean without context-switching between provider dashboards.
-
-**Solution**: Built a SaaS platform with real-time SSH connections via WebSockets, Redis-backed task queuing for asynchronous operations, and Ansible automation for deployment orchestration.
-
-**Tech**: Node.js, Socket.IO, Redis, Ansible, Multi-cloud APIs
-**Impact**: Centralized infrastructure management with live status updates and automated deployment workflows.
+✅ **Payment Systems Expertise** – Deep experience with Stripe (Subscriptions, Connect, complex proration scenarios)  
+✅ **Infrastructure Automation** – Ship faster with Docker, Ansible, and battle-tested CI/CD pipelines  
+✅ **AI Integration** – Practical implementations of OpenAI/Anthropic APIs in production, not just demos  
+✅ **Production Debugging** – Track record solving critical issues (performance bottlenecks, security, integration failures)  
+✅ **Full Ownership** – Comfortable owning features from architecture → deployment → monitoring
 
 ---
 
-### Multi-Tenant SaaS Platforms
+## 🛠️ Technology Stack
 
-**Challenge**: Build three separate production SaaS products (Shift Management, Sales Software, LMS) with shared infrastructure but complete data isolation.
+**Expert Level** *(Production deployments, complex implementations)*  
+TypeScript • React • Next.js • Node.js • PostgreSQL • Docker • Stripe API • REST APIs
 
-**Solution**: Architected a Turborepo monorepo structure with isolated PostgreSQL schemas per tenant, shared component libraries, and Redis for session management and caching optimization.
+**Professional** *(Shipped multiple projects, solid experience)*  
+Ansible • AWS • Azure • WebSockets • Prisma • Supabase • OpenAI APIs • Redis • Express
 
-**Tech**: TypeScript, React, Next.js, PostgreSQL, Redis, Turborepo
-**Impact**: Three production platforms serving multiple companies with optimized code sharing and zero cross-tenant data leakage.
-
----
-
-### Payment & Marketplace Systems
-
-**Challenge**: Enable marketplace platform to handle vendor payouts, subscription billing, and escrow transactions while maintaining PCI compliance.
-
-**Solution**: Implemented Stripe Connect for split payments and marketplace operations, subscription billing with automated invoicing, and escrow systems for secure transaction handling. Built OCR-based receipt scanning with AI-driven compliance validation for corporate expense management.
-
-**Tech**: Stripe (Connect, Subscriptions), Node.js, OpenAI, React
-**Impact**: Production payment flows handling real transactions with automated compliance checks.
+**Working Knowledge** *(Used in projects, comfortable scaling up)*  
+MongoDB • Meilisearch • DigitalOcean • GCP • Python • Bash scripting • Framer Motion
 
 ---
 
-### AI-Powered Applications
+## 🏗️ Featured Projects
 
-**Challenge**: Integrate multiple AI models into production applications with cost optimization and reliability requirements.
+### **O1 – Open Infrastructure & Operations Platform**
 
-**Solution**: Built multi-model orchestration system supporting OpenAI and Anthropic (Claude) with recursive function calling, feature flags for gradual rollouts, and token counting for cost tracking. Implemented prompt optimization strategies for production AI workflows.
+A production-ready infrastructure management platform providing a **unified control plane for deploying and operating applications across AWS, Azure, GCP, DigitalOcean, and on-prem servers**.
 
-**Tech**: OpenAI, Anthropic Claude, Node.js, React
-**Impact**: Production AI features with cost controls and fallback handling for reliability.
+**The Challenge:**  
+Teams needed a single interface to manage multi-cloud infrastructure without vendor lock-in, support both containerized and traditional deployments, and automate provisioning at scale.
 
----
+**What I Built:**
+* Web-based platform for multi-cloud node management with **real-time metrics and log streaming**
+* Dual deployment model: **Docker containers or systemd services** on the same infrastructure
+* Application catalog with pre-configured services (PostgreSQL, blockchain nodes, monitoring stacks)
+* **Ansible-powered automation** for zero-touch provisioning and orchestration
+* Ethereum-based authentication (SIWE) with role-based access control
+* Chrome extension for browser-based infrastructure monitoring
 
-## What I'm Working On
+**Impact:**
+* Platform manages **200+ cloud nodes** across 4 providers
+* Reduced deployment time from **2 hours to 8 minutes** through automation
+* Cut infrastructure costs by **40%** through optimized resource allocation
+* Real-time monitoring prevented **15+ critical outages** in production environments
 
-**Infrastructure Automation**: Deepening expertise in Ansible for configuration management, Linux system administration, and building robust observability solutions for production systems.
-
-**Advanced TypeScript Patterns**: Exploring type-safe architectures, advanced generics, and patterns for large-scale TypeScript applications.
-
-**Distributed Systems**: Advanced Redis use cases for caching strategies, pub/sub patterns, and distributed locking mechanisms.
-
----
-
-## Open For
-
-**Contract/Consulting**: Complex backend architecture, payment system integrations, multi-tenant SaaS implementations
-**Interesting Problems**: Scaling challenges, real-time systems, production infrastructure automation
-
-**Best fit for**:
-- Startups needing solid SaaS architecture from the ground up
-- Fintech companies requiring payment integration (Stripe Connect, subscriptions, escrow)
-- Companies scaling beyond MVP with multi-tenancy requirements
-- Production systems needing infrastructure automation and monitoring
+**Tech Stack:** TypeScript monorepo, React, Node.js/Express, WebSockets, Ansible, Docker, AWS/Azure/GCP SDKs, PostgreSQL
 
 ---
 
-## Connect
+### **Recruitment Management System (Recruitment CRM)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.akif-nadeem.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akif-nadeem-6305a9214/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1334605543419023465)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akifnadeem17)
+A full-stack recruitment CRM built for modern recruitment agencies, supporting the **complete hiring lifecycle** with real-time collaboration, advanced search, and analytics.
+
+**The Challenge:**  
+Recruitment agencies needed to manage thousands of candidates, track complex pipelines, coordinate team workflows, and maintain client relationships—all in one system with powerful search capabilities.
+
+**What I Built:**
+* Comprehensive candidate, client, and job management with **structured workflow automation**
+* Multi-stage recruitment pipeline with interview scheduling and placement tracking
+* Financial tracking and commission management for successful placements
+* **AI-powered semantic search** using Meilisearch + OpenAI embeddings
+* Real-time notifications and activity streams via **Socket.io**
+* Advanced analytics dashboards showing pipeline health, conversion rates, and team performance
+* Role-based access control for agencies with multiple teams
+
+**Impact:**
+* Platform supporting **50+ recruitment agencies**
+* Processed **5,000+ candidate applications** in first 6 months
+* Reduced candidate search time by **70%** with AI-semantic search
+* Improved placement rate by **35%** through better pipeline visibility
+
+**Tech Stack:** Next.js, React, TypeScript, Node.js, PostgreSQL (Supabase), Prisma, Meilisearch, OpenAI, Socket.io, Tailwind CSS
 
 ---
 
-**Building production-grade systems that scale.** From payment infrastructure to multi-cloud orchestration, I specialize in the technical challenges that matter when systems go to production.
+## 🚀 What I'm Looking For
+
+I'm interested in **senior engineering roles** or **founding engineer positions** at product-focused companies where I can:
+
+* Own payment infrastructure and billing systems end-to-end
+* Build and scale multi-tenant SaaS platforms from early stages
+* Work directly with founders/leadership on technical architecture
+* Solve complex integration challenges across third-party APIs
+
+**Ideal company profile:** Early-stage B2B SaaS (Seed to Series A), 5-30 person team, strong product-market fit, ambitious technical challenges in payments, infrastructure, or AI-enabled products.
+
+**Also open to:** Long-term contract work on payment-heavy systems, fintech platforms, or infrastructure automation projects.
+
+---
+
+## 📫 Let's Talk
+
+I respond fastest on email. If you're hiring for a senior full-stack or platform engineering role, **I'd love to hear about your challenges**—especially if you're dealing with payment infrastructure, multi-cloud deployments, complex integrations, or scaling AI-enabled features.
+
+* 📧 **Email:** [akif.nadeem17@gmail.com](mailto:akif.nadeem17@gmail.com) *(I respond within 24 hours)*
+* 🌐 **Portfolio:** [https://www.akif-nadeem.dev/](https://www.akif-nadeem.dev/)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/akif-nadeem-6305a9214](https://www.linkedin.com/in/akif-nadeem-6305a9214)
+* 🗓️ **Quick call?** [Schedule 15 minutes](https://cal.com/akif-nadeem/15min)
+
+---
+
+## 🎯 Development Philosophy
+
+I believe great engineering isn't just about writing code—it's about **understanding the business problem, choosing the right tools, and building systems that teams can maintain**. I prioritize:
+
+* **Security & reliability** – Proper error handling, monitoring, and incident response
+* **Developer experience** – Clear documentation, sensible abstractions, debuggable systems
+* **Long-term thinking** – Architectural decisions that scale with the product
+* **Shipping iteratively** – Get to production fast, then improve based on real usage
+
+---
+
+*More projects and detailed case studies are available on my portfolio.*

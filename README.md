@@ -63,12 +63,6 @@ Teams needed a single interface to manage multi-cloud infrastructure without ven
 * Ethereum-based authentication (SIWE) with role-based access control
 * Chrome extension for browser-based infrastructure monitoring
 
-**Impact:**
-* Platform manages **200+ cloud nodes** across 4 providers
-* Reduced deployment time from **2 hours to 8 minutes** through automation
-* Cut infrastructure costs by **40%** through optimized resource allocation
-* Real-time monitoring prevented **15+ critical outages** in production environments
-
 **Tech Stack:** TypeScript monorepo, React, Node.js/Express, WebSockets, Ansible, Docker, AWS/Azure/GCP SDKs, PostgreSQL
 
 ---
@@ -88,12 +82,6 @@ Recruitment agencies needed to manage thousands of candidates, track complex pip
 * Real-time notifications and activity streams via **Socket.io**
 * Advanced analytics dashboards showing pipeline health, conversion rates, and team performance
 * Role-based access control for agencies with multiple teams
-
-**Impact:**
-* Platform supporting **50+ recruitment agencies**
-* Processed **5,000+ candidate applications** in first 6 months
-* Reduced candidate search time by **70%** with AI-semantic search
-* Improved placement rate by **35%** through better pipeline visibility
 
 **Tech Stack:** Next.js, React, TypeScript, Node.js, PostgreSQL (Supabase), Prisma, Meilisearch, OpenAI, Socket.io, Tailwind CSS
 

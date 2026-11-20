@@ -1,6 +1,6 @@
 # Akif Nadeem
 
-Software engineer at Hyre, based in Lahore, Pakistan.
+Lead Software Engineer at Hyre, based in Lahore, Pakistan.
 
 I build SaaS platforms and AI products end to end, from the first database design to the production launch. Six years across full stack web, mobile and cloud, mostly with early stage teams.
 
